@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="Heartglow.png" alt="HeartGlow PCB" width="700"/>
+<img src="images/Heartglow.png" alt="HeartGlow PCB" width="700"/>
 
 ### A Heart-Shaped LED PCB Designed to Celebrate Valentine's Day
 
@@ -31,11 +31,11 @@ The project demonstrates:
 
 ## Top View
 
-<img src="Heartglow.png" alt="HeartGlow PCB Layout" width="700"/>
+<img src="images/Heartglow.png" alt="HeartGlow PCB Layout" width="700"/>
 
 ## Circuit Schematic
 
-<img src="Schematic1.png" alt="HeartGlow Schematic" width="900"/>
+<img src="images/Schematic1.png" alt="HeartGlow Schematic" width="900"/>
 
 ---
 
